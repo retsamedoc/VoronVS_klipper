@@ -8,7 +8,7 @@ Software:
 
 Hardware:
 - Raspberry Pi 4B
-- BigTreeTech SKR 1.3 Controller Board
+- BigTreeTech SKR 2 Controller Board
 
 Mods/Deviations (W.R.T. Stock VS):
 - Based on an Ender 3 Pro using a combination of existing mods:
