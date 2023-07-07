@@ -1,4 +1,4 @@
-# Voron VS.??? Klipper Profile
+# Voron VS.657 Klipper Profile
 
 Software:
 - [Raspberry Pi OS Lite "Buster"](https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit)
@@ -18,6 +18,7 @@ Mods/Deviations (W.R.T. Stock VS):
 - Self-Adhesive Aluminum Insulation Mat directly under hotbed to protect electronic chamber from direct/radiated heat.
 
 Updates:
+- Serialed.
 - Initial release. All motors are functional.
 
 - - - 
